@@ -1,7 +1,7 @@
 # The code for 《A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging》.
 
 ## Authors
-Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li
+Yuanye Liu, Jinyang Liu, Renwei Dian、*, Shutao Li
 
 ###  Quantitative indexes of the test methods on the CAVE and Harvard datasets
 
