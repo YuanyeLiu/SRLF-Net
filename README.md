@@ -3,7 +3,7 @@
 ## Authors
 Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li
 
-### 📊 Quantitative indexes of the test methods on the CAVE and Harvard datasets
+###  Quantitative indexes of the test methods on the CAVE and Harvard datasets
 
 > The best result is marked in **bold**.
 
