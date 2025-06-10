@@ -1,1 +1,1 @@
-The code will be available after the paper is officially released.
+# The code for 《A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging》.
