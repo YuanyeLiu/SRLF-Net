@@ -21,3 +21,6 @@ Yuanye Liu, Jinyang Liu, Renwei Dian\*, Shutao Li
 | **Ours**     | **81.22G**| 1.33       | **49.3881** | **2.1816** | **0.9752**  | **0.9954**  | **47.8954**     | **2.6876**     | 0.8956         | **0.9856**     |
 
 \* DAEM: 1.67G per fine-tuning, multiplied by the number of fine-tunings.
+
+
+# Note： In the relearning process, I use a Transformer module composed of linear layers, without involving convolution operations.
